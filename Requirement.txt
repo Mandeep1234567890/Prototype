@@ -1,0 +1,6 @@
+streamlit
+qrcode
+opencv-python
+numpy
+cryptography
+Pillow
