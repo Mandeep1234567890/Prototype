@@ -1,6 +1,5 @@
 streamlit
 qrcode
-opencv-python
-numpy
 cryptography
 Pillow
+opencv-python-headless
